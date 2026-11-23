@@ -1,6 +1,6 @@
 # Dashboard TMDB · Películas Más Votadas (Streamlit)
 
-Aplicación web interactiva desarrollada con **Python** y **Streamlit** para la materia de **Herramientas de Visualización (UPQ)**. El proyecto integra el consumo de la API de **The Movie Database (TMDB)**, el procesamiento y limpieza de datos con **Pandas**, y la visualización dinámica de métricas y gráficas analíticas.
+Aplicación web interactiva desarrollada con **Python** y **Streamlit** para la materia de **Herramientas de Visualización**. El proyecto integra el consumo de la API de **The Movie Database (TMDB)**, el procesamiento y limpieza de datos con **Pandas**, y la visualización dinámica de métricas y gráficas analíticas.
 
 ---
 
